@@ -1,4 +1,4 @@
-# silus-pronunciation
+# Silus Pronunciation
 How to say "Silus" in Latin. The correct way.
 
 1. Classical Latin (SIH-loos)
